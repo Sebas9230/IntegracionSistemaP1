@@ -1,0 +1,6 @@
+﻿"idTransaccion,fecha,idCategoria,idProducto,producto,cantidad,precioUnitario,totalVenta"
+"11,2024-05-11,1,111,Frigobar,1,600,600"
+"12,2024-05-12,2,112,Horno eléctrico,2,400,800"
+"13,2024-05-13,1,113,Batidora de mano,1,250,250"
+"14,2024-05-14,2,114,Plancha de vapor,3,150,450"
+"15,2024-05-15,1,115,Secadora de ropa,1,700,700"

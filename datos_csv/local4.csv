@@ -1,0 +1,6 @@
+﻿"idTransaccion,fecha,idCategoria,idProducto,producto,cantidad,precioUnitario,totalVenta"
+"16,2024-05-16,2,116,Robot de cocina,2,300,600"
+"17,2024-05-17,1,117,Aspiradora robot,1,400,400"
+"18,2024-05-18,2,118,Cafetera espresso,1,250,250"
+"19,2024-05-19,1,119,Hervidor eléctrico,3,120,360"
+"20,2024-05-20,2,120,Trituradora de alimentos,1,350,350"
